@@ -56,6 +56,6 @@ public class MainActivity extends AppCompatActivity {
 
         listView.setAdapter(adapter);
 
-        cursor.close();
+        //cursor.close();
     }
 }
